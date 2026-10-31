@@ -1,0 +1,73 @@
+{
+  "version": "1.0.0",
+  "files": {
+    "README.md": {
+      "bytes": 2431,
+      "sha256": "0058ff76bffd8f8b3e4b08e9801a94c9c4a9632adf06cf29cba0d523e9a75c48"
+    },
+    "catalog.json": {
+      "bytes": 383,
+      "sha256": "8b130a964ac8d229c02e44ad0668eeb186b782dae8ea2a1fff538552790be2a6"
+    },
+    "skills/ecommerce-image-production/SKILL.md": {
+      "bytes": 3378,
+      "sha256": "f4bd683e4d93b873ce03d1cef3af4f65e024e9688e8a131781ec4a02ca0ad699"
+    },
+    "skills/ecommerce-image-production/agents/openai.yaml": {
+      "bytes": 314,
+      "sha256": "7282e59948372c6d06eac2910f701aa45fa4c9f6214864c2205bcd1f685327b1"
+    },
+    "skills/ecommerce-image-production/references/pages-and-series.md": {
+      "bytes": 1430,
+      "sha256": "41f2e6869ada0a5e47d46664ca812e48d782148361bb8025f7008dfbd0d50b01"
+    },
+    "skills/ecommerce-image-production/references/people-and-contact.md": {
+      "bytes": 1103,
+      "sha256": "fe4d1861b20a6f9d891c7efce4dd37435f8688b7c0219f8c484dcb4d7a461112"
+    },
+    "skills/ecommerce-image-production/references/prompts.md": {
+      "bytes": 1473,
+      "sha256": "3bb9d159e9ccb54eebcc92e95bccc284fef481f939de2fa6d8425b160ee826ce"
+    },
+    "skills/ecommerce-image-production/references/review.md": {
+      "bytes": 1384,
+      "sha256": "e1847ac2b9db9d104e906a89c0e471d1bca5d278b095fe974c1293484dbdf760"
+    },
+    "skills/ecommerce-image-production/references/routes-and-locks.md": {
+      "bytes": 1598,
+      "sha256": "ef0ccc7c2d958570be831b34a1607db173d6780ce43380c866d3aecd78775a6f"
+    },
+    "skills/ecommerce-image-production/references/visual-direction.md": {
+      "bytes": 1511,
+      "sha256": "86eb7f74fb0d5c670ee75dabe9345c9c1937000f65474b0f0f5eefad7b7aabc7"
+    },
+    "skills/ecommerce-planning/SKILL.md": {
+      "bytes": 2984,
+      "sha256": "e5b800bbc5c82a7ff915467f807c3a9f4cc1ea279cd39e2edd6bcd2f15111cf8"
+    },
+    "skills/ecommerce-planning/agents/openai.yaml": {
+      "bytes": 295,
+      "sha256": "ba165207695ba5978378e1f19853bea9e9c316533ea5b3914434fc477785d38f"
+    },
+    "skills/ecommerce-planning/references/copy.md": {
+      "bytes": 1337,
+      "sha256": "a0f0cfe57f2b2aea21607647a4469f631a89a1cccd854808943302c3652c14b2"
+    },
+    "skills/ecommerce-planning/references/delivery.md": {
+      "bytes": 1337,
+      "sha256": "e7ea4e735e00270762ecb1f0628464b5415205f182d4ab5bbccbd74fcf5f7d9d"
+    },
+    "skills/ecommerce-planning/references/planning.md": {
+      "bytes": 2233,
+      "sha256": "e2be0b6da8873df8773be24294e13775327bd69505af72715b3d0259d5dc9b0e"
+    },
+    "validation-report.json": {
+      "bytes": 894,
+      "sha256": "a73c14dadc68e5657563cc4a777e554b262ed71906e9e1f93d69337bd5f0e10a"
+    },
+    "verify_package.py": {
+      "bytes": 2064,
+      "sha256": "100229da2d4c68d46169738752c8b29144d298842b87c13d806a002034039d85"
+    }
+  }
+}

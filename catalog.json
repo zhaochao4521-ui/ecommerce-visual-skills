@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "status": "public_release",
+  "skills": [
+    {
+      "name": "ecommerce-planning",
+      "display_name": "电商策划与文案",
+      "directory": "skills/ecommerce-planning"
+    },
+    {
+      "name": "ecommerce-image-production",
+      "display_name": "电商图片制作与提示词",
+      "directory": "skills/ecommerce-image-production"
+    }
+  ]
+}

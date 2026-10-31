@@ -1,0 +1,4 @@
+interface:
+  display_name: "电商图片制作与提示词（公开版）"
+  short_description: "按产品事实完成主图、改图和独立提示词，内置视觉判断与成图检查"
+  default_prompt: "使用 $ecommerce-image-production 根据当前产品资料完成本次任务，只加载必要流程。"

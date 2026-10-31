@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-31",
+  "status": "validated_release_source",
+  "independent_skills": 2,
+  "private_dependencies": 0,
+  "private_material_scan": "passed",
+  "official_skill_validation": "both passed in personal-skills checkout",
+  "behavior_checks": [
+    {
+      "task": "three copy directions from a fictional organizer with only two confirmed features",
+      "result": "three titles plus auxiliary copy; no invented material, dimensions or price; no PDF or images"
+    },
+    {
+      "task": "one standalone image prompt for a fictional organizer",
+      "result": "one prompt; no external aesthetic package, planning flow or image generation"
+    }
+  ],
+  "runtime_tools": "image/PDF creation depends on host tools; no bundled model or account",
+  "publication": "Prepared for zhaochao4521-ui/ecommerce-visual-skills; remote publication is verified separately."
+}
